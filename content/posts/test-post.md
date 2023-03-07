@@ -1,7 +1,7 @@
 ---
 title: "Test Post"
 date: 2023-03-07T10:58:18-05:00
-draft: true
+draft: false
 ---
 
 # Markdown syntax guide
